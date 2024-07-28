@@ -13,5 +13,5 @@ module.exports = {
   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-128rs%40apire-23193.iam.gserviceaccount.com",
   "universe_domain": "googleapis.com"
 },
-    storageBucket: '',
+    storageBucket: 'apire-23193.appspot.com',
 }
